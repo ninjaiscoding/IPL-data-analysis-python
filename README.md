@@ -28,6 +28,13 @@ Venue-based match distribution
 Season-wise trends
 Toss impact analysis
 
+## Project file Link
+<a href="https://github.com/ninjaiscoding/IPL-data-analysis-python/blob/main/matches_data_analysis.ipynb">IPL data analysis</a>
+
+## Dataset used
+<a href="https://github.com/ninjaiscoding/IPL-data-analysis-python/blob/main/matches.xlsx">IPL data</a>
+
+
 ## Key Insights
 Identified most successful teams based on total wins
 Highlighted top players with highest match impact
