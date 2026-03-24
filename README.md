@@ -21,11 +21,17 @@ Google Colab
 
 ## Key Analysis Performed
 Data cleaning (handling null values, duplicates)
+
 Feature engineering (season extraction from date)
+
 Team performance analysis
+
 Player of the match analysis
+
 Venue-based match distribution
+
 Season-wise trends
+
 Toss impact analysis
 
 ## Project file Link
@@ -37,9 +43,13 @@ Toss impact analysis
 
 ## Key Insights
 Identified most successful teams based on total wins
+
 Highlighted top players with highest match impact
+
 Found that winning the toss gives ~52% probability of winning
+
 Analyzed venue distribution and match frequency trends
+
 Determined season with highest number of matches  
 
 ## insights images
