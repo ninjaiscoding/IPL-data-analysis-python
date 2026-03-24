@@ -42,6 +42,10 @@ Found that winning the toss gives ~52% probability of winning
 Analyzed venue distribution and match frequency trends
 Determined season with highest number of matches  
 
+## insights images
+<img width="1396" height="772" alt="matches played in each IPL season.png" src="https://github.com/ninjaiscoding/IPL-data-analysis-python/blob/main/matches%20played%20in%20each%20IPL%20season.png" />
+
+
 ## Project Structure
 ipl-data-analysis/
 
