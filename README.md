@@ -37,6 +37,9 @@ Determined season with highest number of matches
 
 ## Project Structure
 ipl-data-analysis/
+
 │── matches_data_analysis.ipynb
+
 │── matches.xlsx
+
 │── README.md
